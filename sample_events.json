@@ -1,0 +1,43 @@
+[
+  {
+    "event_id": "evt-001",
+    "event_type": "page_view",
+    "timestamp": "2026-11-17T09:00:00Z",
+    "user_id": "user-101",
+    "page": "Main_Page"
+  },
+  {
+    "event_id": "evt-002",
+    "event_type": "search",
+    "timestamp": "2026-11-17T09:02:15Z",
+    "user_id": "user-102",
+    "page": "Search"
+  },
+  {
+    "event_id": "evt-003",
+    "event_type": "edit",
+    "timestamp": "2026-11-17T09:05:30Z",
+    "user_id": "user-103",
+    "page": "Data_Engineering"
+  },
+  {
+    "event_id": "evt-004",
+    "event_type": "page_view",
+    "timestamp": "2026-11-17T09:08:00Z",
+    "user_id": "user-104",
+    "page": "Event_Platform"
+  },
+  {
+    "event_id": "evt-005",
+    "event_type": "edit",
+    "timestamp": "2026-11-17T09:10:00Z",
+    "page": "Missing_User"
+  },
+  {
+    "event_id": "evt-006",
+    "event_type": "unknown_action",
+    "timestamp": "2026-11-17T09:12:00Z",
+    "user_id": "user-106",
+    "page": "Example"
+  }
+]

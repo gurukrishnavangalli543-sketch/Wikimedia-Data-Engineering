@@ -1,0 +1,14 @@
+{
+  "records_read": 6,
+  "valid_records": 4,
+  "rejected_records": 2,
+  "valid_events_by_type": {
+    "edit": 1,
+    "page_view": 2,
+    "search": 1
+  },
+  "rejection_reasons": {
+    "Missing required field(s): user_id": 1,
+    "Unsupported event_type: unknown_action": 1
+  }
+}

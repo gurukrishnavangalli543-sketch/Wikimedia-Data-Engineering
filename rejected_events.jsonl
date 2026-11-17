@@ -1,0 +1,1 @@
+{"record": {"event_id": "evt-005", "event_type": "edit", "timestamp": "2026-11-17T09:10:00Z", "page": "Missing_User"}, "reason": "Missing required field(s): user_id"}\n{"record": {"event_id": "evt-006", "event_type": "unknown_action", "timestamp": "2026-11-17T09:12:00Z", "user_id": "user-106", "page": "Example"}, "reason": "Unsupported event_type: unknown_action"}\n
